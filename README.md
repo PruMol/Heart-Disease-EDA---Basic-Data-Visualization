@@ -3,4 +3,4 @@
 
 * During EDA, various statistical techniques and visualizations are employed to explore the data's structure and distribution. These may include summary statistics, histograms, scatter plots, box plots, correlation matrices, and more. By analyzing these representations, analysts can identify trends, dependencies, and potential data issues, such as missing values or outliers.
 
-* 
+* This repository showcases the use of various visualization techniques using the seaborn library on a heart disease dataset, enhancing the understanding of the data through informative plots and potential valuable insights.
